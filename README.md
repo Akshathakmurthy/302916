@@ -24,3 +24,5 @@ REQUIREMENTS:
 
 
 
+https://www.code-inspector.com/project/25036/score/svg
+https://www.code-inspector.com/project/25036/status/svg
